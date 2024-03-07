@@ -1,5 +1,5 @@
-# Bazelisk
-
+# wget https://gerrit-releases.storage.googleapis.com/gerrit-3.5.1.warBazelisk
+#https://gerrit-releases.storage.googleapis.com/gerrit-3.5.1.war
 **A user-friendly launcher for Bazel.**
 
 ## About Bazelisk
